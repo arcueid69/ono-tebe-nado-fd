@@ -5,7 +5,7 @@
   justify-items: center;
   background-color: white;
   /* height: 293px; */
-  padding: 92px 50px 96px 50px;
+  padding: 93px 50px 95px 50px;
   margin: 0;
   font-family: Raleway, sans-serif;
 }
@@ -13,6 +13,7 @@
 .header__menu {
   align-items: left;
   justify-items: stretch;
+  justify-self: start;
 }
 
 .header__links-list {
@@ -55,14 +56,14 @@
 
 .address {
   max-width: 240px;
-  min-height: 98px;
   font-family: Raleway, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 133%;
   letter-spacing: 0;
-  justify-self: end;
+  justify-self: start;
+  margin-left: 185px;
 }
 
 .cover {
@@ -89,7 +90,7 @@
   position: relative;
   font-size: 100px;
   line-height: 115%;
-  margin-bottom: 99px;
+  margin-bottom: 106px;
 }
 
 .aligned-text {
@@ -335,6 +336,7 @@
 
 .footer__address {
   justify-self: start;
+  margin-left: 0px;
 }
 
 .footer__menu {
