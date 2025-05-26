@@ -162,7 +162,7 @@
   justify-content: space-between;
   margin-left: 24px;
   margin-right: 24px;
-  margin-bottom: 124px;
+  margin-bottom: 120px;
 }
 
 .lots__heading {
@@ -174,7 +174,7 @@
   letter-spacing: 0em;
   text-transform: uppercase;
   margin-left: 40px;
-  margin-bottom: 27px;
+  margin-bottom: 30px;
 }
 
 .lots__card-list {
@@ -338,6 +338,7 @@
 .footer__address {
   justify-self: start;
   margin-left: 0px;
+  margin-bottom: 82px;
 }
 
 .footer__menu {
