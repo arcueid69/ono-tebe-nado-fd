@@ -113,6 +113,7 @@
 .aligned-text_right {
   display: block;
   text-align: right;
+  padding-bottom: 0px;
 }
 
 .no-letter-spacing {
