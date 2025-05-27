@@ -107,6 +107,7 @@
 .aligned-text_center {
   display: block;
   text-align: center;
+  padding-left: 20px;
 }
 
 .aligned-text_right {
@@ -135,7 +136,7 @@
   font-size: 22px;
   line-height: 127%;
   text-transform: uppercase;
-  word-spacing: 20px;
+  word-spacing: 0.82em;
   z-index: 2;
 }
 
